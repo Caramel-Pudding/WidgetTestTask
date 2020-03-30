@@ -1,0 +1,19 @@
+.container
+  position: relative
+  height: 40px
+  width: 100%
+
+.input
+  height: inherit
+  width: inherit
+  padding: 0 8px
+  box-sizing: border-box
+  border-width: 0
+  border-radius: 2px
+
+.calendarIcon
+  position: absolute
+  top: 30%
+  left: calc(95%-17px)
+  cursor: pointer
+  
